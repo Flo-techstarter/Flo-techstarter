@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Flo-techstarter/Flo-techstarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Willkommen auf der GitHub-Seite von Florian 👋
 
